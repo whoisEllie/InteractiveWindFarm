@@ -1,6 +1,12 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Rider cache files
+.idea/*
+
+# MacOS directory cache
+.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
